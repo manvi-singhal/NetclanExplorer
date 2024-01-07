@@ -27,5 +27,5 @@ Follow these steps to trust the developer's profile:
 2. Select **General**.
 3. Choose **VPN & Device Management**.
 4. Find the developer's profile under **Developer App**.
-5. Select **Trust “mv4741@srmist.edu.in”**.
+5. Select **Trust `mv4741@srmist.edu.in`**.
 6. If prompted to confirm, select **Trust** again.
